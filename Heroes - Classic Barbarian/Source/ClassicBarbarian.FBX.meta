@@ -1,0 +1,1521 @@
+fileFormatVersion: 2
+guid: a319015c9ad3f3447bea530cf1031e65
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: BarbarianLFoot
+    100002: BarbarianRPalm
+    100004: shield
+    100006: BarbarianLPalm
+    100008: dagger
+    100010: Barbariandagger
+    100012: barbarian
+    100014: BarbarianHead
+    100016: BarbarianNeck
+    100018: sword
+    100020: Barbarianmouth
+    100022: BarbarianLCalf
+    100024: BarbarianLThigh
+    100026: BarbarianSpine3
+    100028: BarbarianSpine2
+    100030: BarbarianSpine1
+    100032: BarbarianRFoot
+    100034: BarbarianRCalf
+    100036: BarbarianRThigh
+    100038: BarbarianPelvis
+    100040: //RootNode
+    100042: BarbarianLDigit11
+    100044: Barbariancloth_back
+    100046: Barbariancloth_front
+    100048: BarbarianTailhair
+    100050: BarbarianRDigit33
+    100052: BarbarianRDigit32
+    100054: BarbarianRDigit31
+    100056: BarbarianRDigit23
+    100058: BarbarianRDigit22
+    100060: BarbarianRDigit21
+    100062: BarbarianRDigit13
+    100064: BarbarianRDigit12
+    100066: BarbarianRDigit11 1
+    100068: BarbarianRForearm
+    100070: BarbarianRUpperarm
+    100072: BarbarianRCollarbone
+    100074: BarbarianLDigit33
+    100076: BarbarianLDigit32
+    100078: BarbarianLDigit31
+    100080: BarbarianLDigit23
+    100082: BarbarianLDigit22
+    100084: BarbarianLDigit21
+    100086: BarbarianLDigit13
+    100088: BarbarianLDigit12
+    100090: BarbarianLDigit11 1
+    100092: BarbarianLForearm
+    100094: BarbarianLUpperarm
+    100096: BarbarianLCollarbone
+    100098: BarbarianRibcage
+    100100: BarbarianRDigit11
+    400000: BarbarianLFoot
+    400002: BarbarianRPalm
+    400004: shield
+    400006: BarbarianLPalm
+    400008: dagger
+    400010: Barbariandagger
+    400012: barbarian
+    400014: BarbarianHead
+    400016: BarbarianNeck
+    400018: sword
+    400020: Barbarianmouth
+    400022: BarbarianLCalf
+    400024: BarbarianLThigh
+    400026: BarbarianSpine3
+    400028: BarbarianSpine2
+    400030: BarbarianSpine1
+    400032: BarbarianRFoot
+    400034: BarbarianRCalf
+    400036: BarbarianRThigh
+    400038: BarbarianPelvis
+    400040: //RootNode
+    400042: BarbarianLDigit11
+    400044: Barbariancloth_back
+    400046: Barbariancloth_front
+    400048: BarbarianTailhair
+    400050: BarbarianRDigit33
+    400052: BarbarianRDigit32
+    400054: BarbarianRDigit31
+    400056: BarbarianRDigit23
+    400058: BarbarianRDigit22
+    400060: BarbarianRDigit21
+    400062: BarbarianRDigit13
+    400064: BarbarianRDigit12
+    400066: BarbarianRDigit11 1
+    400068: BarbarianRForearm
+    400070: BarbarianRUpperarm
+    400072: BarbarianRCollarbone
+    400074: BarbarianLDigit33
+    400076: BarbarianLDigit32
+    400078: BarbarianLDigit31
+    400080: BarbarianLDigit23
+    400082: BarbarianLDigit22
+    400084: BarbarianLDigit21
+    400086: BarbarianLDigit13
+    400088: BarbarianLDigit12
+    400090: BarbarianLDigit11 1
+    400092: BarbarianLForearm
+    400094: BarbarianLUpperarm
+    400096: BarbarianLCollarbone
+    400098: BarbarianRibcage
+    400100: BarbarianRDigit11
+    2300000: shield
+    2300002: dagger
+    2300004: sword
+    3300000: shield
+    3300002: dagger
+    3300004: sword
+    4300000: shield
+    4300002: sword
+    4300004: dagger
+    4300006: barbarian
+    7400000: walk
+    7400002: idle
+    7400004: idle break
+    7400006: talk
+    7400008: salute
+    7400010: crouch
+    7400012: die 1
+    7400014: 'die 2 '
+    7400016: idle to fight
+    7400018: fight idle
+    7400020: flight idle break
+    7400022: hit
+    7400024: punch
+    7400026: attack 1
+    7400028: attack 2
+    7400030: attack 3
+    7400032: special
+    7400034: block
+    7400036: jump
+    7400038: run
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: barbarian
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: idle
+      takeName: 
+      firstFrame: 5
+      lastFrame: 120
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: idle break
+      takeName: 
+      firstFrame: 120
+      lastFrame: 190
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: talk
+      takeName: 
+      firstFrame: 190
+      lastFrame: 290
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: salute
+      takeName: 
+      firstFrame: 290
+      lastFrame: 340
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: crouch
+      takeName: 
+      firstFrame: 340
+      lastFrame: 365
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: die 1
+      takeName: 
+      firstFrame: 370
+      lastFrame: 440
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: 'die 2 '
+      takeName: 
+      firstFrame: 450
+      lastFrame: 480
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: idle to fight
+      takeName: 
+      firstFrame: 490
+      lastFrame: 510
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: fight idle
+      takeName: 
+      firstFrame: 510
+      lastFrame: 560
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: flight idle break
+      takeName: 
+      firstFrame: 560
+      lastFrame: 600
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: hit
+      takeName: 
+      firstFrame: 600
+      lastFrame: 620
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: punch
+      takeName: 
+      firstFrame: 620
+      lastFrame: 645
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: attack 1
+      takeName: 
+      firstFrame: 645
+      lastFrame: 670
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: attack 2
+      takeName: 
+      firstFrame: 670
+      lastFrame: 695
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: attack 3
+      takeName: 
+      firstFrame: 695
+      lastFrame: 725
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: special
+      takeName: 
+      firstFrame: 725
+      lastFrame: 765
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: block
+      takeName: 
+      firstFrame: 765
+      lastFrame: 785
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: jump
+      takeName: 
+      firstFrame: 805
+      lastFrame: 850
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: walk
+      takeName: Take 001
+      firstFrame: 900
+      lastFrame: 935
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: barbarian
+        weight: 1
+      - path: BarbarianPelvis
+        weight: 1
+      - path: BarbarianPelvis/Barbariancloth_back
+        weight: 1
+      - path: BarbarianPelvis/Barbariancloth_front
+        weight: 1
+      - path: BarbarianPelvis/Barbariandagger
+        weight: 1
+      - path: BarbarianPelvis/Barbariandagger/dagger
+        weight: 1
+      - path: BarbarianPelvis/BarbarianLThigh
+        weight: 1
+      - path: BarbarianPelvis/BarbarianLThigh/BarbarianLCalf
+        weight: 1
+      - path: BarbarianPelvis/BarbarianLThigh/BarbarianLCalf/BarbarianLFoot
+        weight: 1
+      - path: BarbarianPelvis/BarbarianLThigh/BarbarianLCalf/BarbarianLFoot/BarbarianLDigit11
+        weight: 1
+      - path: BarbarianPelvis/BarbarianRThigh
+        weight: 1
+      - path: BarbarianPelvis/BarbarianRThigh/BarbarianRCalf
+        weight: 1
+      - path: BarbarianPelvis/BarbarianRThigh/BarbarianRCalf/BarbarianRFoot
+        weight: 1
+      - path: BarbarianPelvis/BarbarianRThigh/BarbarianRCalf/BarbarianRFoot/BarbarianRDigit11
+        weight: 1
+      - path: BarbarianPelvis/BarbarianSpine1
+        weight: 1
+      - path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2
+        weight: 1
+      - path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3
+        weight: 1
+      - path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage
+        weight: 1
+      - path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianLCollarbone
+        weight: 1
+      - path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianLCollarbone/BarbarianLUpperarm
+        weight: 1
+      - path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianLCollarbone/BarbarianLUpperarm/BarbarianLForearm
+        weight: 1
+      - path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianLCollarbone/BarbarianLUpperarm/BarbarianLForearm/BarbarianLPalm
+        weight: 1
+      - path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianLCollarbone/BarbarianLUpperarm/BarbarianLForearm/BarbarianLPalm/BarbarianLDigit11
+          1
+        weight: 1
+      - path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianLCollarbone/BarbarianLUpperarm/BarbarianLForearm/BarbarianLPalm/BarbarianLDigit11
+          1/BarbarianLDigit12
+        weight: 1
+      - path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianLCollarbone/BarbarianLUpperarm/BarbarianLForearm/BarbarianLPalm/BarbarianLDigit11
+          1/BarbarianLDigit12/BarbarianLDigit13
+        weight: 1
+      - path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianLCollarbone/BarbarianLUpperarm/BarbarianLForearm/BarbarianLPalm/BarbarianLDigit21
+        weight: 1
+      - path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianLCollarbone/BarbarianLUpperarm/BarbarianLForearm/BarbarianLPalm/BarbarianLDigit21/BarbarianLDigit22
+        weight: 1
+      - path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianLCollarbone/BarbarianLUpperarm/BarbarianLForearm/BarbarianLPalm/BarbarianLDigit21/BarbarianLDigit22/BarbarianLDigit23
+        weight: 1
+      - path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianLCollarbone/BarbarianLUpperarm/BarbarianLForearm/BarbarianLPalm/BarbarianLDigit31
+        weight: 1
+      - path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianLCollarbone/BarbarianLUpperarm/BarbarianLForearm/BarbarianLPalm/BarbarianLDigit31/BarbarianLDigit32
+        weight: 1
+      - path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianLCollarbone/BarbarianLUpperarm/BarbarianLForearm/BarbarianLPalm/BarbarianLDigit31/BarbarianLDigit32/BarbarianLDigit33
+        weight: 1
+      - path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianLCollarbone/BarbarianLUpperarm/BarbarianLForearm/BarbarianLPalm/shield
+        weight: 1
+      - path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianNeck
+        weight: 1
+      - path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianNeck/BarbarianHead
+        weight: 1
+      - path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianNeck/BarbarianHead/Barbarianmouth
+        weight: 1
+      - path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianNeck/BarbarianHead/BarbarianTailhair
+        weight: 1
+      - path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianRCollarbone
+        weight: 1
+      - path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianRCollarbone/BarbarianRUpperarm
+        weight: 1
+      - path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianRCollarbone/BarbarianRUpperarm/BarbarianRForearm
+        weight: 1
+      - path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianRCollarbone/BarbarianRUpperarm/BarbarianRForearm/BarbarianRPalm
+        weight: 1
+      - path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianRCollarbone/BarbarianRUpperarm/BarbarianRForearm/BarbarianRPalm/BarbarianRDigit11
+          1
+        weight: 1
+      - path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianRCollarbone/BarbarianRUpperarm/BarbarianRForearm/BarbarianRPalm/BarbarianRDigit11
+          1/BarbarianRDigit12
+        weight: 1
+      - path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianRCollarbone/BarbarianRUpperarm/BarbarianRForearm/BarbarianRPalm/BarbarianRDigit11
+          1/BarbarianRDigit12/BarbarianRDigit13
+        weight: 1
+      - path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianRCollarbone/BarbarianRUpperarm/BarbarianRForearm/BarbarianRPalm/BarbarianRDigit21
+        weight: 1
+      - path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianRCollarbone/BarbarianRUpperarm/BarbarianRForearm/BarbarianRPalm/BarbarianRDigit21/BarbarianRDigit22
+        weight: 1
+      - path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianRCollarbone/BarbarianRUpperarm/BarbarianRForearm/BarbarianRPalm/BarbarianRDigit21/BarbarianRDigit22/BarbarianRDigit23
+        weight: 1
+      - path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianRCollarbone/BarbarianRUpperarm/BarbarianRForearm/BarbarianRPalm/BarbarianRDigit31
+        weight: 1
+      - path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianRCollarbone/BarbarianRUpperarm/BarbarianRForearm/BarbarianRPalm/BarbarianRDigit31/BarbarianRDigit32
+        weight: 1
+      - path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianRCollarbone/BarbarianRUpperarm/BarbarianRForearm/BarbarianRPalm/BarbarianRDigit31/BarbarianRDigit32/BarbarianRDigit33
+        weight: 1
+      - path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianRCollarbone/BarbarianRUpperarm/BarbarianRForearm/BarbarianRPalm/sword
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: run
+      takeName: Take 001
+      firstFrame: 950
+      lastFrame: 975
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: barbarian
+        weight: 1
+      - path: BarbarianPelvis
+        weight: 1
+      - path: BarbarianPelvis/Barbariancloth_back
+        weight: 1
+      - path: BarbarianPelvis/Barbariancloth_front
+        weight: 1
+      - path: BarbarianPelvis/Barbariandagger
+        weight: 1
+      - path: BarbarianPelvis/Barbariandagger/dagger
+        weight: 1
+      - path: BarbarianPelvis/BarbarianLThigh
+        weight: 1
+      - path: BarbarianPelvis/BarbarianLThigh/BarbarianLCalf
+        weight: 1
+      - path: BarbarianPelvis/BarbarianLThigh/BarbarianLCalf/BarbarianLFoot
+        weight: 1
+      - path: BarbarianPelvis/BarbarianLThigh/BarbarianLCalf/BarbarianLFoot/BarbarianLDigit11
+        weight: 1
+      - path: BarbarianPelvis/BarbarianRThigh
+        weight: 1
+      - path: BarbarianPelvis/BarbarianRThigh/BarbarianRCalf
+        weight: 1
+      - path: BarbarianPelvis/BarbarianRThigh/BarbarianRCalf/BarbarianRFoot
+        weight: 1
+      - path: BarbarianPelvis/BarbarianRThigh/BarbarianRCalf/BarbarianRFoot/BarbarianRDigit11
+        weight: 1
+      - path: BarbarianPelvis/BarbarianSpine1
+        weight: 1
+      - path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2
+        weight: 1
+      - path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3
+        weight: 1
+      - path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage
+        weight: 1
+      - path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianLCollarbone
+        weight: 1
+      - path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianLCollarbone/BarbarianLUpperarm
+        weight: 1
+      - path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianLCollarbone/BarbarianLUpperarm/BarbarianLForearm
+        weight: 1
+      - path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianLCollarbone/BarbarianLUpperarm/BarbarianLForearm/BarbarianLPalm
+        weight: 1
+      - path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianLCollarbone/BarbarianLUpperarm/BarbarianLForearm/BarbarianLPalm/BarbarianLDigit11
+          1
+        weight: 1
+      - path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianLCollarbone/BarbarianLUpperarm/BarbarianLForearm/BarbarianLPalm/BarbarianLDigit11
+          1/BarbarianLDigit12
+        weight: 1
+      - path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianLCollarbone/BarbarianLUpperarm/BarbarianLForearm/BarbarianLPalm/BarbarianLDigit11
+          1/BarbarianLDigit12/BarbarianLDigit13
+        weight: 1
+      - path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianLCollarbone/BarbarianLUpperarm/BarbarianLForearm/BarbarianLPalm/BarbarianLDigit21
+        weight: 1
+      - path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianLCollarbone/BarbarianLUpperarm/BarbarianLForearm/BarbarianLPalm/BarbarianLDigit21/BarbarianLDigit22
+        weight: 1
+      - path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianLCollarbone/BarbarianLUpperarm/BarbarianLForearm/BarbarianLPalm/BarbarianLDigit21/BarbarianLDigit22/BarbarianLDigit23
+        weight: 1
+      - path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianLCollarbone/BarbarianLUpperarm/BarbarianLForearm/BarbarianLPalm/BarbarianLDigit31
+        weight: 1
+      - path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianLCollarbone/BarbarianLUpperarm/BarbarianLForearm/BarbarianLPalm/BarbarianLDigit31/BarbarianLDigit32
+        weight: 1
+      - path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianLCollarbone/BarbarianLUpperarm/BarbarianLForearm/BarbarianLPalm/BarbarianLDigit31/BarbarianLDigit32/BarbarianLDigit33
+        weight: 1
+      - path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianLCollarbone/BarbarianLUpperarm/BarbarianLForearm/BarbarianLPalm/shield
+        weight: 1
+      - path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianNeck
+        weight: 1
+      - path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianNeck/BarbarianHead
+        weight: 1
+      - path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianNeck/BarbarianHead/Barbarianmouth
+        weight: 1
+      - path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianNeck/BarbarianHead/BarbarianTailhair
+        weight: 1
+      - path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianRCollarbone
+        weight: 1
+      - path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianRCollarbone/BarbarianRUpperarm
+        weight: 1
+      - path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianRCollarbone/BarbarianRUpperarm/BarbarianRForearm
+        weight: 1
+      - path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianRCollarbone/BarbarianRUpperarm/BarbarianRForearm/BarbarianRPalm
+        weight: 1
+      - path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianRCollarbone/BarbarianRUpperarm/BarbarianRForearm/BarbarianRPalm/BarbarianRDigit11
+          1
+        weight: 1
+      - path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianRCollarbone/BarbarianRUpperarm/BarbarianRForearm/BarbarianRPalm/BarbarianRDigit11
+          1/BarbarianRDigit12
+        weight: 1
+      - path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianRCollarbone/BarbarianRUpperarm/BarbarianRForearm/BarbarianRPalm/BarbarianRDigit11
+          1/BarbarianRDigit12/BarbarianRDigit13
+        weight: 1
+      - path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianRCollarbone/BarbarianRUpperarm/BarbarianRForearm/BarbarianRPalm/BarbarianRDigit21
+        weight: 1
+      - path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianRCollarbone/BarbarianRUpperarm/BarbarianRForearm/BarbarianRPalm/BarbarianRDigit21/BarbarianRDigit22
+        weight: 1
+      - path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianRCollarbone/BarbarianRUpperarm/BarbarianRForearm/BarbarianRPalm/BarbarianRDigit21/BarbarianRDigit22/BarbarianRDigit23
+        weight: 1
+      - path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianRCollarbone/BarbarianRUpperarm/BarbarianRForearm/BarbarianRPalm/BarbarianRDigit31
+        weight: 1
+      - path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianRCollarbone/BarbarianRUpperarm/BarbarianRForearm/BarbarianRPalm/BarbarianRDigit31/BarbarianRDigit32
+        weight: 1
+      - path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianRCollarbone/BarbarianRUpperarm/BarbarianRForearm/BarbarianRPalm/BarbarianRDigit31/BarbarianRDigit32/BarbarianRDigit33
+        weight: 1
+      - path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianRCollarbone/BarbarianRUpperarm/BarbarianRForearm/BarbarianRPalm/sword
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: BarbarianPelvis
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BarbarianLThigh
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BarbarianRThigh
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BarbarianLCalf
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BarbarianRCalf
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BarbarianLFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BarbarianRFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BarbarianSpine1
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BarbarianSpine2
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BarbarianNeck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BarbarianHead
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BarbarianLCollarbone
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BarbarianRCollarbone
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BarbarianLUpperarm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BarbarianRUpperarm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BarbarianLForearm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BarbarianRForearm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BarbarianLPalm
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BarbarianRPalm
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BarbarianLDigit11
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BarbarianRDigit11
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BarbarianTailhair
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Barbarianmouth
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BarbarianLDigit21
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BarbarianLDigit22
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BarbarianLDigit23
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BarbarianLDigit31
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BarbarianLDigit32
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BarbarianLDigit33
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BarbarianRDigit21
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BarbarianRDigit22
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BarbarianRDigit23
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BarbarianRDigit31
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BarbarianRDigit32
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BarbarianRDigit33
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BarbarianRDigit11 1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BarbarianRDigit12
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BarbarianRDigit13
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BarbarianLDigit11 1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BarbarianLDigit12
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BarbarianLDigit13
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: ClassicBarbarian(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: barbarian
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -.707106829, y: 0, z: -0, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: BarbarianPelvis
+      position: {x: 4.61577834e-08, y: 1.00815308, z: -.112956956}
+      rotation: {x: .499126971, y: -.500871539, z: -.499127001, w: .500871539}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Barbariancloth_back
+      position: {x: -.000149596075, y: -.0428752862, z: 1.15001848e-08}
+      rotation: {x: 3.01662197e-08, y: 2.08563961e-07, z: 1, w: 5.95005716e-08}
+      scale: {x: .999999762, y: .999999762, z: .999999762}
+      transformModified: 1
+    - name: Barbariancloth_front
+      position: {x: .000621057523, y: .177999437, z: -4.77432494e-08}
+      rotation: {x: 3.11948661e-10, y: 1.7881365e-07, z: 1, w: -8.94588155e-08}
+      scale: {x: .999999881, y: .999999881, z: 1}
+      transformModified: 1
+    - name: Barbariandagger
+      position: {x: -.038277857, y: -.00132651103, z: -.188792452}
+      rotation: {x: -.185213432, y: .272363275, z: .862705767, w: .383735806}
+      scale: {x: .999999821, y: .99999994, z: 1.00000012}
+      transformModified: 1
+    - name: dagger
+      position: {x: .121237561, y: .0125231165, z: -.00854658149}
+      rotation: {x: -.479992002, y: .537197411, z: -.410335779, w: .559152305}
+      scale: {x: .999999702, y: 1.00000083, z: .99999994}
+      transformModified: 1
+    - name: BarbarianLThigh
+      position: {x: -.0262861941, y: .0716704503, z: .125350282}
+      rotation: {x: .00612321589, y: .999627531, z: .0049759238, w: .026127819}
+      scale: {x: .999999642, y: 1.0000006, z: 1.00000024}
+      transformModified: 1
+    - name: BarbarianLCalf
+      position: {x: -.461711556, y: 9.21999046e-08, z: 4.29413447e-08}
+      rotation: {x: .000915740267, y: -.000469595601, z: .064137578, w: .9979406}
+      scale: {x: .999999881, y: 1.0000006, z: 1.00000012}
+      transformModified: 1
+    - name: BarbarianLFoot
+      position: {x: -.538780093, y: -5.19385495e-08, z: -9.38898594e-08}
+      rotation: {x: -.0651313663, y: -.0172120929, z: -.714214981, w: .696676791}
+      scale: {x: .999998271, y: 1.00000107, z: .999999523}
+      transformModified: 1
+    - name: BarbarianLDigit11
+      position: {x: -.204879776, y: .031482406, z: 5.05059552e-06}
+      rotation: {x: -3.29827365e-09, y: -3.0207401e-09, z: -.054379072, w: .998520434}
+      scale: {x: 1.00000048, y: 1.00000024, z: 1.00000024}
+      transformModified: 1
+    - name: BarbarianRThigh
+      position: {x: -.0262872893, y: .0716703981, z: -.125350401}
+      rotation: {x: .00612327363, y: .999627471, z: -.00497601321, w: -.0261277575}
+      scale: {x: .99999994, y: 1.00000024, z: 1.00000095}
+      transformModified: 1
+    - name: BarbarianRCalf
+      position: {x: -.461712629, y: 1.75465985e-07, z: -1.71537891e-07}
+      rotation: {x: -.000915731362, y: .000469721213, z: .0641375482, w: .9979406}
+      scale: {x: 1.00000095, y: .999999523, z: .999999881}
+      transformModified: 1
+    - name: BarbarianRFoot
+      position: {x: -.538779855, y: -1.86819413e-08, z: -8.78318041e-09}
+      rotation: {x: .0651315153, y: .0172120016, z: -.71421504, w: .696676791}
+      scale: {x: 1.0000006, y: .999998927, z: .999999583}
+      transformModified: 1
+    - name: BarbarianRDigit11
+      position: {x: -.20487988, y: .0314823836, z: -5.08678022e-06}
+      rotation: {x: -3.80692846e-08, y: -1.700203e-07, z: -.0543791242, w: .998520374}
+      scale: {x: .999999762, y: .999999702, z: 1}
+      transformModified: 1
+    - name: BarbarianSpine1
+      position: {x: -.0697771162, y: -.00533868093, z: -7.95081689e-09}
+      rotation: {x: 4.19671153e-07, y: 2.70131633e-08, z: .149247289, w: -.98879993}
+      scale: {x: 1.00000036, y: 1.0000006, z: 1.00000012}
+      transformModified: 1
+    - name: BarbarianSpine2
+      position: {x: -.211167887, y: 7.16479587e-09, z: -2.52313725e-09}
+      rotation: {x: -3.73956198e-07, y: -2.76478183e-08, z: -.166387886, w: -.986060381}
+      scale: {x: .999999881, y: .999999881, z: .999999762}
+      transformModified: 1
+    - name: BarbarianSpine3
+      position: {x: -.179887578, y: -2.97634486e-08, z: -6.95715485e-09}
+      rotation: {x: -2.56468596e-10, y: -4.50044046e-09, z: .0755732879, w: .997140288}
+      scale: {x: 1.00000024, y: 1.00000036, z: 1.00000024}
+      transformModified: 1
+    - name: BarbarianRibcage
+      position: {x: -.193311021, y: -1.29996973e-08, z: 1.05428555e-08}
+      rotation: {x: 1.65114127e-08, y: 1.90635685e-08, z: -.0946065634, w: .99551481}
+      scale: {x: .999999106, y: .999999523, z: .999999881}
+      transformModified: 1
+    - name: BarbarianLCollarbone
+      position: {x: .0210110079, y: .122867547, z: .0561439097}
+      rotation: {x: .0308775697, y: .709697783, z: .193980113, w: .676570356}
+      scale: {x: .999999762, y: .999999642, z: 1.00000083}
+      transformModified: 1
+    - name: BarbarianLUpperarm
+      position: {x: -.175910503, y: 2.68755485e-07, z: -1.25703184e-06}
+      rotation: {x: .147445351, y: -.00105179695, z: -.157550737, w: .976440787}
+      scale: {x: .999999166, y: .99999994, z: 1.0000006}
+      transformModified: 1
+    - name: BarbarianLForearm
+      position: {x: -.327715129, y: -1.14978754e-07, z: -1.72141461e-06}
+      rotation: {x: .0829885826, y: -.00763452938, z: -.0245606676, w: .996218562}
+      scale: {x: .999999583, y: .999999166, z: 1.00000215}
+      transformModified: 1
+    - name: BarbarianLPalm
+      position: {x: -.248213112, y: 3.73217318e-07, z: 2.6313071e-06}
+      rotation: {x: -.759788752, y: .0665448979, z: .0359193087, w: .645757437}
+      scale: {x: .999998808, y: 1.00000036, z: 1.00000036}
+      transformModified: 1
+    - name: BarbarianLDigit11 1
+      position: {x: -.0423589051, y: -.00226681773, z: .041888997}
+      rotation: {x: .460722208, y: .353815943, z: -.156431183, w: .798798203}
+      scale: {x: .999993622, y: 1.00000048, z: 1.00000441}
+      transformModified: 1
+    - name: BarbarianLDigit12
+      position: {x: -.0649421737, y: 3.41086707e-06, z: -2.10027497e-06}
+      rotation: {x: -.0134549905, y: .0076469765, z: .0388050266, w: .99912703}
+      scale: {x: .999996424, y: 1.00000024, z: 1.00000429}
+      transformModified: 1
+    - name: BarbarianLDigit13
+      position: {x: -.0428535789, y: 1.93787764e-06, z: -1.04790013e-06}
+      rotation: {x: 1.78639948e-06, y: 6.42711484e-07, z: .197077319, w: .980387926}
+      scale: {x: .99999851, y: .999997258, z: 1.00000286}
+      transformModified: 1
+    - name: BarbarianLDigit21
+      position: {x: -.153696552, y: -.000141777651, z: .056514889}
+      rotation: {x: .000585962262, y: .0373795442, z: .0156704187, w: .999178171}
+      scale: {x: .999999642, y: 1.0000031, z: .999996185}
+      transformModified: 1
+    - name: BarbarianLDigit22
+      position: {x: -.0546683259, y: -3.47587593e-06, z: -5.83357348e-07}
+      rotation: {x: 1.58988951e-06, y: -2.81229319e-07, z: .0326723084, w: .999466121}
+      scale: {x: .999992728, y: 1.00000858, z: .999996781}
+      transformModified: 1
+    - name: BarbarianLDigit23
+      position: {x: -.0428579897, y: -2.58042019e-06, z: -4.52082872e-07}
+      rotation: {x: 5.78347738e-07, y: -9.04875321e-08, z: .0286746472, w: .999588847}
+      scale: {x: .999998689, y: 1.00000405, z: .99999702}
+      transformModified: 1
+    - name: BarbarianLDigit31
+      position: {x: -.159113854, y: .00604458107, z: .0055102976}
+      rotation: {x: .00700935116, y: -.0376344584, z: .0349511467, w: .998655558}
+      scale: {x: .999997973, y: 1.00000489, z: .999995828}
+      transformModified: 1
+    - name: BarbarianLDigit32
+      position: {x: -.052778542, y: -3.04997434e-06, z: 2.8868169e-07}
+      rotation: {x: -.00220348919, y: -.000240115478, z: .0346192494, w: .999398112}
+      scale: {x: .999993742, y: 1.00000858, z: .999997199}
+      transformModified: 1
+    - name: BarbarianLDigit33
+      position: {x: -.0349477343, y: -2.07801668e-06, z: 2.41852945e-07}
+      rotation: {x: -.00135984516, y: -.00655132812, z: .238710567, w: .971067786}
+      scale: {x: .999989271, y: 1.00001276, z: .999997079}
+      transformModified: 1
+    - name: shield
+      position: {x: -.051940687, y: -.0427270494, z: .0271971691}
+      rotation: {x: -.0616404675, y: -.0156503934, z: .989642382, w: -.128699109}
+      scale: {x: 1.00000048, y: .999998927, z: 1.00000131}
+      transformModified: 1
+    - name: BarbarianNeck
+      position: {x: -.0210200436, y: .0515510291, z: -2.83261521e-08}
+      rotation: {x: 2.97985885e-08, y: -3.04687831e-08, z: .0111813247, w: .999937534}
+      scale: {x: 1.00000048, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: BarbarianHead
+      position: {x: -.114150472, y: 9.49318402e-10, z: 2.43198928e-09}
+      rotation: {x: -2.96329148e-08, y: 3.03012335e-08, z: -.0111813219, w: .999937475}
+      scale: {x: .999999702, y: .999999881, z: .99999994}
+      transformModified: 1
+    - name: Barbarianmouth
+      position: {x: .00684023509, y: .0435546413, z: -4.98832442e-09}
+      rotation: {x: -1.61420513e-08, y: 1.29283663e-07, z: .805503964, w: -.592590451}
+      scale: {x: .999999523, y: .999999583, z: .999999583}
+      transformModified: 1
+    - name: BarbarianTailhair
+      position: {x: -.0953023434, y: -.0240143351, z: 2.22469231e-11}
+      rotation: {x: -4.43316317e-09, y: 1.31901317e-07, z: .974226117, w: .225573644}
+      scale: {x: .999999881, y: 1, z: .99999994}
+      transformModified: 1
+    - name: BarbarianRCollarbone
+      position: {x: .0210104231, y: .122867532, z: -.0561439581}
+      rotation: {x: .0308784246, y: .709698319, z: -.193980575, w: -.676569581}
+      scale: {x: .999999881, y: .99999994, z: 1.00000083}
+      transformModified: 1
+    - name: BarbarianRUpperarm
+      position: {x: -.175910652, y: 5.13111672e-07, z: 1.85182864e-06}
+      rotation: {x: -.14744471, y: .0010549716, z: -.157551721, w: .976440728}
+      scale: {x: .999999464, y: 1.00000036, z: 1.00000131}
+      transformModified: 1
+    - name: BarbarianRForearm
+      position: {x: -.327715665, y: -7.4999619e-08, z: 2.70795312e-07}
+      rotation: {x: -.0829882994, y: .00763093028, z: -.024561407, w: .996218622}
+      scale: {x: .999999464, y: .999999344, z: 1.00000131}
+      transformModified: 1
+    - name: BarbarianRPalm
+      position: {x: -.24821274, y: 3.05942677e-07, z: -1.60996922e-06}
+      rotation: {x: .759788632, y: -.0665448382, z: .0359192863, w: .645757496}
+      scale: {x: .999998152, y: 1.0000006, z: 1.00000024}
+      transformModified: 1
+    - name: BarbarianRDigit11 1
+      position: {x: -.0423582084, y: -.00226561748, z: -.0418893397}
+      rotation: {x: -.460719347, y: -.35381487, z: -.156439781, w: .7987988}
+      scale: {x: .999994159, y: 1.00000024, z: 1.00000608}
+      transformModified: 1
+    - name: BarbarianRDigit12
+      position: {x: -.0649426281, y: 2.61561695e-06, z: 1.77141214e-06}
+      rotation: {x: .0134548964, y: -.00765559124, z: .0388219915, w: .999126256}
+      scale: {x: .999996185, y: .999999404, z: 1.0000037}
+      transformModified: 1
+    - name: BarbarianRDigit13
+      position: {x: -.0428527035, y: 2.73497312e-06, z: 1.89983678e-06}
+      rotation: {x: -1.81364999e-06, y: -6.18225556e-07, z: .197077185, w: .980388045}
+      scale: {x: .999995828, y: 1.00000095, z: 1.00000346}
+      transformModified: 1
+    - name: BarbarianRDigit21
+      position: {x: -.153695971, y: -.00014083767, z: -.0565149151}
+      rotation: {x: -.000586059294, y: -.0373795629, z: .0156703275, w: .999178171}
+      scale: {x: .99999994, y: 1.00000346, z: .99999702}
+      transformModified: 1
+    - name: BarbarianRDigit22
+      position: {x: -.0546689853, y: -3.42889439e-06, z: 5.37616529e-07}
+      rotation: {x: -1.08406698e-06, y: -7.18832709e-08, z: .0326718949, w: .999466121}
+      scale: {x: .999993503, y: 1.00000918, z: .99999702}
+      transformModified: 1
+    - name: BarbarianRDigit23
+      position: {x: -.0428579524, y: -2.63644733e-06, z: 3.96410172e-07}
+      rotation: {x: -7.00962289e-07, y: 7.04604233e-08, z: .0286745336, w: .999588847}
+      scale: {x: .999997675, y: 1.00000429, z: .999996245}
+      transformModified: 1
+    - name: BarbarianRDigit31
+      position: {x: -.159113601, y: .00604562461, z: -.00551029295}
+      rotation: {x: -.00701053161, y: .0376348943, z: .0349549241, w: .998655438}
+      scale: {x: .99999851, y: 1.00000501, z: .999997139}
+      transformModified: 1
+    - name: BarbarianRDigit32
+      position: {x: -.0527777188, y: -2.22820904e-06, z: -2.42921629e-07}
+      rotation: {x: .00220383517, y: .000242120339, z: .0346061625, w: .999398589}
+      scale: {x: .999993503, y: 1.00000918, z: .999997318}
+      transformModified: 1
+    - name: BarbarianRDigit33
+      position: {x: -.0349481255, y: -1.98763109e-06, z: -2.94085936e-07}
+      rotation: {x: .00135937135, y: .00655134209, z: .238710552, w: .971067786}
+      scale: {x: .999989629, y: 1.00001371, z: .999997556}
+      transformModified: 1
+    - name: sword
+      position: {x: -.114264749, y: -.0177296437, z: -.00255895616}
+      rotation: {x: -.279822111, y: .957672656, z: -.011194231, w: -.0666136518}
+      scale: {x: 1.00000036, y: 1, z: .999999881}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
